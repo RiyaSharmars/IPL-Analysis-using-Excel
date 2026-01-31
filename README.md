@@ -113,4 +113,4 @@ The dashboard helps stakeholders quickly understand trends, patterns, and key pe
 This project showcases the ability to transform raw data into meaningful insights using Excel. It demonstrates strong analytical thinking, visualization skills, and the ability to present data in a clear and actionable format.
 
 ---
-✅ Write **resume bullet points** from this project
+
